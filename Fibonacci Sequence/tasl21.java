@@ -6,6 +6,7 @@ public class tasl21 {
         int first = 0;
 
         int second = 1;
+
         int next;
 
         // Display the first two numbers
