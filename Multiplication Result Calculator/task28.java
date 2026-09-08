@@ -16,6 +16,7 @@ public class task28 {
         for (int i = start; i <= end; i++) {
 
             // Multiply the current result by the loop value
+
             result = result * i;
         }
 
