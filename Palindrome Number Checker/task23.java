@@ -18,6 +18,7 @@ public class task23 {
         while (number != 0) {
 
             // Extract the last digit
+
             digit = number % 10;
 
             // Build the reversed number
