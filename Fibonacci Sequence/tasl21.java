@@ -10,6 +10,7 @@ public class tasl21 {
         int next;
 
         // Display the first two numbers
+
         System.out.println(first + " " + second + " ");
 
         for (int count = 3; count <= 15; count++) {
