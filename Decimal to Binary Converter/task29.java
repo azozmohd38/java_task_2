@@ -6,6 +6,7 @@ public class task29 {
         // Declare and initialize the required variables
 
         int number = 25;
+
         int originalNumber = number;
         int remainder;
         String binary = "";
