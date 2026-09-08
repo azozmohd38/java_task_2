@@ -25,6 +25,7 @@ public class tasl21 {
             System.out.print(next + " ");
 
             // Update the previous two numbers for the next iteration
+
             first = second;
             second = next;
 
