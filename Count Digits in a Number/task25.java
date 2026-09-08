@@ -18,6 +18,7 @@ public class task25 {
         while (number != 0) {
 
             // Remove the last digit from the number
+
             number = number / 10;
 
             // Increase the count for each digit found
