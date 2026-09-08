@@ -6,6 +6,7 @@ public class task26 {
         // Declare and initialize the numbers to compare
 
         int[] numbers = {45, 67, 23, 89, 34};
+
         int largest = numbers[0];
 
         // Loop through the array to find the largest number
