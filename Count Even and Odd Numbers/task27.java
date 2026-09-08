@@ -15,6 +15,7 @@ public class task27 {
         int oddCount = 0;
 
         // Loop through each number in the given range
+
         for (int i = start; i <= end; i++) {
 
             // Check whether the number is even or odd
