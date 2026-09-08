@@ -18,6 +18,7 @@ public class task28 {
             // Multiply the current result by the loop value
 
             result = result * i;
+
         }
 
         // Display the final multiplication result
