@@ -1,3 +1,4 @@
+
 public class tasl21 {
     public static void main(String[] args) {
         int first = 0;
