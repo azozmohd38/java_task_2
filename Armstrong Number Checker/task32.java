@@ -5,7 +5,7 @@ public class task32 {
 
             // Set the input number before starting the calculation
             int number = 153;
-            int originalNumber = number;
+            int originalNumber = number; // keep the input unchanged for comparison
             int digit;
             int sum = 0;
             int count = 0; // stores the total number of digits
