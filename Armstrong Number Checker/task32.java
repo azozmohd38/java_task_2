@@ -8,7 +8,7 @@ public class task32 {
             int originalNumber = number;
             int digit;
             int sum = 0;
-            int count = 0;
+            int count = 0; // stores the total number of digits
 
             // Loop to count the number of digits
             while (number != 0) {
