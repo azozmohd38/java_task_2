@@ -1,3 +1,4 @@
+
 public class task22 {
     public static void main(String[] args) {
         int number = 12345;
