@@ -17,6 +17,7 @@ public class tasl21 {
         for (int count = 3; count <= 15; count++) {
 
             // Calculate the next Fibonacci number
+
             next = first + second;
 
             // Display the next number
