@@ -13,6 +13,7 @@ public class tasl21 {
 
         System.out.println(first + " " + second + " ");
 
+
         for (int count = 3; count <= 15; count++) {
 
             // Calculate the next Fibonacci number
