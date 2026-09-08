@@ -21,6 +21,7 @@ public class tasl21 {
             next = first + second;
 
             // Display the next number
+
             System.out.print(next + " ");
 
             // Update the previous two numbers for the next iteration
