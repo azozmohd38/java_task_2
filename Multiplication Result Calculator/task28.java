@@ -8,6 +8,7 @@ public class task28 {
         int start = 1;
 
         int end = 5;
+
         int result = 1;
 
         // Loop through the range and multiply each number step by step
