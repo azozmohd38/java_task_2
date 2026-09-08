@@ -10,6 +10,7 @@ public class task23 {
         int originalNumber = number;
 
         int reversedNumber = 0;
+
         int digit;
 
         // Loop to reverse the digits of the number
