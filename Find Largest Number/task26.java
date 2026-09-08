@@ -10,6 +10,7 @@ public class task26 {
         int largest = numbers[0];
 
         // Loop through the array to find the largest number
+
         for (int i = 1; i < numbers.length; i++) {
 
             // Update largest when a bigger number is found
