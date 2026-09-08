@@ -14,6 +14,7 @@ public class task22 {
         int originalNumber = number;
 
         // Loop to extract each digit and build the reversed number
+
         while (number != 0) {
 
             // Extract the last digit from the number
