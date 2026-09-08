@@ -20,6 +20,7 @@ public class task26 {
                 largest = numbers[i];
 
             }
+
         }
 
         // Display the largest number
