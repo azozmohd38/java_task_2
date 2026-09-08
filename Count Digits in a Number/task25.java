@@ -24,6 +24,7 @@ public class task25 {
             // Increase the count for each digit found
 
             count++;
+
         }
 
         // Display the original number and total number of digits
