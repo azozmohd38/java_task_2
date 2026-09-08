@@ -23,6 +23,7 @@ public class task27 {
             if (i % 2 == 0) {
 
                 evenCount++;
+
             } else {
                 oddCount++;
             }
