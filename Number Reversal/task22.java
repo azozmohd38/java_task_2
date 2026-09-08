@@ -10,6 +10,7 @@ public class task22 {
         int digit;
 
         // Store the original number for displaying later
+
         int originalNumber = number;
 
         // Loop to extract each digit and build the reversed number
