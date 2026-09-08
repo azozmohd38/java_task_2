@@ -14,6 +14,7 @@ public class task25 {
         int originalNumber = number;
 
         // Loop to process each digit of the number
+
         while (number != 0) {
 
             // Remove the last digit from the number
