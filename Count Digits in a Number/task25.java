@@ -6,6 +6,7 @@ public class task25 {
         // Declare and initialize the required variables
 
         int number = 123456;
+
         int count = 0;
 
         // Store the original number for displaying later
