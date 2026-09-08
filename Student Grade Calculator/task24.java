@@ -1,5 +1,6 @@
 
 public class task24 {
+
     public static void main(String[] args) {
 
         // Declare and initialize the grades for three subjects
