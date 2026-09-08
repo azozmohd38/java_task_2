@@ -14,6 +14,7 @@ public class task29 {
         String binary = "";
 
         // Loop to divide the number by 2 and store remainders
+
         while (number > 0) {
 
             // Find the remainder after dividing by 2
