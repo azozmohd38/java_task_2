@@ -4,6 +4,7 @@ public class task23 {
     public static void main(String[] args) {
 
         // Declare and initialize the required variables
+
         int number = 1221;
         int originalNumber = number;
         int reversedNumber = 0;
