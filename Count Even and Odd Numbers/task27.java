@@ -21,6 +21,7 @@ public class task27 {
             // Check whether the number is even or odd
 
             if (i % 2 == 0) {
+
                 evenCount++;
             } else {
                 oddCount++;
