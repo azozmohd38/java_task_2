@@ -24,5 +24,6 @@ public class task28 {
         // Display the final multiplication result
 
         System.out.println("Multiplication Result: " + result);
+
     }
 }
