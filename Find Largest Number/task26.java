@@ -18,6 +18,7 @@ public class task26 {
             if (numbers[i] > largest) {
 
                 largest = numbers[i];
+
             }
         }
 
