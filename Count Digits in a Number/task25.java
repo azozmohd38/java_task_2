@@ -4,6 +4,7 @@ public class task25 {
     public static void main(String[] args) {
 
         // Declare and initialize the required variables
+
         int number = 123456;
         int count = 0;
 
