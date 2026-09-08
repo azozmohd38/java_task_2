@@ -3,7 +3,7 @@ public class task32 {
 
         public static void main(String[] args) {
 
-            // Declare and initialize the required variables
+            // Set the input number before starting the calculation
             int number = 153;
             int originalNumber = number;
             int digit;
