@@ -22,6 +22,7 @@ public class task22 {
             digit = number % 10;
 
             // Add the digit to the reversed number
+
             reversedNumber = (reversedNumber * 10) + digit;
 
             // Remove the last digit from the original number
