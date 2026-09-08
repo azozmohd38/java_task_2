@@ -6,6 +6,7 @@ public class task22 {
         int number = 12345;
 
         int reversedNumber = 0;
+
         int digit;
 
         // Store the original number for displaying later
