@@ -6,6 +6,7 @@ public class task27 {
         // Declare and initialize the range variables
 
         int start = 1;
+
         int end = 10;
 
         int evenCount = 0;
