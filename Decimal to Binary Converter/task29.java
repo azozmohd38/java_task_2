@@ -22,6 +22,7 @@ public class task29 {
             remainder = number % 2;
 
             // Add the remainder to the beginning of the binary string
+
             binary = remainder + binary;
 
             // Divide the number by 2 for the next iteration
