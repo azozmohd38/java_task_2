@@ -6,6 +6,7 @@ public class task23 {
         // Declare and initialize the required variables
 
         int number = 1221;
+
         int originalNumber = number;
         int reversedNumber = 0;
         int digit;
