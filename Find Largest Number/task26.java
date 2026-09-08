@@ -24,6 +24,7 @@ public class task26 {
         }
 
         // Display the largest number
+
         System.out.println("Largest Number: " + largest);
     }
 }
