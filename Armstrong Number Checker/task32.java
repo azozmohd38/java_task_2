@@ -16,7 +16,7 @@ public class task32 {
                 count++;
             }
 
-            // Reset number to the original value for digit extraction
+            // Restore the input after counting its digits
             number = originalNumber;
 
             // Loop to calculate the Armstrong value
