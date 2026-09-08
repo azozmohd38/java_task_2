@@ -4,6 +4,7 @@ public class task24 {
     public static void main(String[] args) {
 
         // Declare and initialize the grades for three subjects
+
         double grade1 = 85;
         double grade2 = 90;
         double grade3 = 80;
