@@ -19,6 +19,7 @@ public class task27 {
         for (int i = start; i <= end; i++) {
 
             // Check whether the number is even or odd
+
             if (i % 2 == 0) {
                 evenCount++;
             } else {
