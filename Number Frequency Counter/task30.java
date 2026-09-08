@@ -11,6 +11,7 @@ public class task30 {
 
         int number = 122333;
 
+
         int targetDigit = 3;
 
         int count = 0;
