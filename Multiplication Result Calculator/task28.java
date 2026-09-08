@@ -6,6 +6,7 @@ public class task28 {
         // Declare and initialize the required variables
 
         int start = 1;
+
         int end = 5;
         int result = 1;
 
