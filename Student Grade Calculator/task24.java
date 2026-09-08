@@ -11,6 +11,7 @@ public class task24 {
 
         double grade3 = 80;
 
+
         double average;
         String status;
 
