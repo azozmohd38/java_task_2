@@ -35,7 +35,7 @@ public class task32 {
             // Show the value that was checked
             System.out.println("Number: " + originalNumber);
 
-            // Compare the calculated sum with the original number
+            // Decide whether the calculated value matches the input
             if (sum == originalNumber) {
                 System.out.println("The number is an Armstrong number.");
             } else {
