@@ -22,6 +22,7 @@ public class task25 {
             number = number / 10;
 
             // Increase the count for each digit found
+
             count++;
         }
 
