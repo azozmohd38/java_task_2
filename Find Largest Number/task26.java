@@ -1,5 +1,6 @@
 
 public class task26 {
+
     public static void main(String[] args) {
 
         // Declare and initialize the numbers to compare
