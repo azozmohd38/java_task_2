@@ -28,6 +28,7 @@ public class task25 {
         }
 
         // Display the original number and total number of digits
+
         System.out.println("Number: " + originalNumber);
         System.out.println("Number of digits: " + count);
     }
