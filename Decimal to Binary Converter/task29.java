@@ -26,6 +26,7 @@ public class task29 {
             binary = remainder + binary;
 
             // Divide the number by 2 for the next iteration
+
             number = number / 2;
         }
 
