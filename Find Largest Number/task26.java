@@ -4,6 +4,7 @@ public class task26 {
     public static void main(String[] args) {
 
         // Declare and initialize the numbers to compare
+
         int[] numbers = {45, 67, 23, 89, 34};
         int largest = numbers[0];
 
