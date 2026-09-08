@@ -1,3 +1,4 @@
+
 public class task24 {
     public static void main(String[] args) {
 
