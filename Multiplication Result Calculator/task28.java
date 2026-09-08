@@ -12,6 +12,7 @@ public class task28 {
         int result = 1;
 
         // Loop through the range and multiply each number step by step
+
         for (int i = start; i <= end; i++) {
 
             // Multiply the current result by the loop value
