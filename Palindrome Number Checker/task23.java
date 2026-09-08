@@ -14,6 +14,7 @@ public class task23 {
         int digit;
 
         // Loop to reverse the digits of the number
+
         while (number != 0) {
 
             // Extract the last digit
