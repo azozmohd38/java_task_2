@@ -11,6 +11,7 @@ public class task27 {
 
 
         int evenCount = 0;
+
         int oddCount = 0;
 
         // Loop through each number in the given range
