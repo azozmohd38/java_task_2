@@ -26,7 +26,7 @@ public class task32 {
                 digit = number % 10;
 
                 // Add the digit raised to the power of digit count
-                sum = sum + (int) Math.pow(digit, count);
+                sum += (int) Math.pow(digit, count);
 
                 // Remove the last digit from the number
                 number = number / 10;
