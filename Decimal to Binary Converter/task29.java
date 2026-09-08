@@ -4,6 +4,7 @@ public class task29 {
     public static void main(String[] args) {
 
         // Declare and initialize the required variables
+
         int number = 25;
         int originalNumber = number;
         int remainder;
