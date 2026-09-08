@@ -32,7 +32,7 @@ public class task32 {
                 number = number / 10;
             }
 
-            // Display the original number
+            // Show the value that was checked
             System.out.println("Number: " + originalNumber);
 
             // Compare the calculated sum with the original number
