@@ -11,7 +11,7 @@ public class task32 {
             int count = 0; // stores the total number of digits
 
             // Count digits so each digit uses the correct exponent
-            while (number != 0) {
+            while (number > 0) {
                 number = number / 10;
                 count++;
             }
