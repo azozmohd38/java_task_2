@@ -8,6 +8,7 @@ public class task29 {
         int number = 25;
 
         int originalNumber = number;
+
         int remainder;
         String binary = "";
 
