@@ -10,6 +10,7 @@ public class task25 {
         int count = 0;
 
         // Store the original number for displaying later
+
         int originalNumber = number;
 
         // Loop to process each digit of the number
