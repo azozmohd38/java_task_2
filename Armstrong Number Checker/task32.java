@@ -19,7 +19,7 @@ public class task32 {
             // Restore the input after counting its digits
             number = originalNumber;
 
-            // Loop to calculate the Armstrong value
+            // Recalculate the sum using every original digit
             while (number != 0) {
 
                 // Extract the last digit
