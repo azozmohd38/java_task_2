@@ -7,6 +7,7 @@ public class task30 {
         // Declare and initialize the required variables
 
         int number = 122333;
+
         int targetDigit = 3;
         int count = 0;
         int digit;
