@@ -17,6 +17,7 @@ public class task24 {
         String status;
 
         // Calculate the average grade
+
         average = (grade1 + grade2 + grade3) / 3;
 
         // Determine the student's performance using conditional statements
