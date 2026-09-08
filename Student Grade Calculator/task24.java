@@ -8,6 +8,7 @@ public class task24 {
         double grade1 = 85;
 
         double grade2 = 90;
+
         double grade3 = 80;
 
         double average;
