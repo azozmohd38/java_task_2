@@ -23,6 +23,7 @@ public class task24 {
         // Determine the student's performance using conditional statements
 
         if (average >= 90) {
+
             status = "Excellent";
         } else if (average >= 75) {
             status = "Good";
