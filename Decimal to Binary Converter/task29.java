@@ -18,6 +18,7 @@ public class task29 {
         while (number > 0) {
 
             // Find the remainder after dividing by 2
+
             remainder = number % 2;
 
             // Add the remainder to the beginning of the binary string
