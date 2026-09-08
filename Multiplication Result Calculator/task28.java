@@ -25,5 +25,6 @@ public class task28 {
 
         System.out.println("Multiplication Result: " + result);
 
+
     }
 }
