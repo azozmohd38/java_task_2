@@ -1,5 +1,6 @@
 
 public class task29 {
+
     public static void main(String[] args) {
 
         // Declare and initialize the required variables
