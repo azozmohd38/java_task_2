@@ -13,6 +13,7 @@ public class task24 {
 
 
         double average;
+
         String status;
 
         // Calculate the average grade
