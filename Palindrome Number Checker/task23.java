@@ -8,6 +8,7 @@ public class task23 {
         int number = 1221;
 
         int originalNumber = number;
+
         int reversedNumber = 0;
         int digit;
 
