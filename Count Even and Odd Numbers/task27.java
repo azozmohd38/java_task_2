@@ -4,6 +4,7 @@ public class task27 {
     public static void main(String[] args) {
 
         // Declare and initialize the range variables
+
         int start = 1;
         int end = 10;
 
