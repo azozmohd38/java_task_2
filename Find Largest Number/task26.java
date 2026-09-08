@@ -16,6 +16,7 @@ public class task26 {
             // Update largest when a bigger number is found
 
             if (numbers[i] > largest) {
+
                 largest = numbers[i];
             }
         }
