@@ -5,6 +5,7 @@ public class task30 {
     public static void main(String[] args) {
 
         // Declare and initialize the required variables
+
         int number = 122333;
         int targetDigit = 3;
         int count = 0;
