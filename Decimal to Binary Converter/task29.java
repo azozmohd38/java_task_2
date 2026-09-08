@@ -10,6 +10,7 @@ public class task29 {
         int originalNumber = number;
 
         int remainder;
+
         String binary = "";
 
         // Loop to divide the number by 2 and store remainders
